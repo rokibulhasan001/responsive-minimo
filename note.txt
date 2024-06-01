@@ -1,0 +1,19 @@
+grey-#000000
+black-#626262
+minimo psd to html full class video + delails
+
+
+minimo-header-section
+https://rokibulhasan001.github.io/minimo/
+
+
+font
+font-family: "Ubuntu", sans-serif;
+
+
+
+Minimo-PSD-to-HTML
+https://rokibulhasan001.github.io/Minimo-psd-to-html/
+
+newspotel-link
+https://www.youtube.com/watch?v=cE2un5pNYZs
